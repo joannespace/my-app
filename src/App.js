@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello world</h1>
-        <h2>Testing Update Branch</h2>
+        <h2>Update many files</h2>
       </header>
     </div>
   );
